@@ -1,5 +1,4 @@
 <!---developer: Aditya Suman (www.mngo.in/aditya.php)---->
-
 <html>
 <head>
 	<title> IITP Motorsports</title>
@@ -32,7 +31,7 @@
 			...loading...
 			<br><br>
 
-			<span class="edition">themed on <span>2018</span> <span>edition</span></span>
+			<span class="edition">themed on <span>2019</span> <span>edition</span></span>
 		</div>
 	</div>
 
@@ -79,15 +78,27 @@
 		<ul class="slider">
 
 			<li>
-				<img src="img/pic1.jpg"/>
+				<img src="img/pic13.jpg"/>
 				<div id="tags">
-					
+					Team 2k19
 				</div>
 			</li>
 			<li>
-
-				<img src="img/pic2.jpg"/>
+				<img src="img/pic12.jpg"/>
 				<div id="tags">
+					The Car
+				</div>
+			</li>
+			<li>
+				<img src="img/pic14.jpg"/>
+				<div id="tags">
+					TI Stickers
+				</div>
+			</li>
+			<li>
+				<img src="img/pic15.jpg"/>
+				<div id="tags">
+					Lined-Up for the Endurance
 				</div>
 			</li>
 			<li>
@@ -97,33 +108,9 @@
 				</div>
 			</li>
 			<li>
-				<img src="img/pic4.jpg"/>
+				<img src="img/pic16.jpg"/>
 				<div id="tags">
-					TI Stickers
-				</div>
-			</li>
-			<li>
-				<img src="img/pic5.jpg"/>
-				<div id="tags">
-					Ready for the Presentation
-				</div>
-			</li>
-			<li>
-				<img src="img/pic6.jpg"/>
-				<div id="tags">
-					The Car
-				</div>
-			</li>
-			<li>
-				<img src="img/pic7.jpg"/>
-				<div id="tags">
-					Lined-Up for the Endurance
-				</div>
-			</li>
-			<li>
-				<img src="img/pic8.jpeg"/>
-				<div id="tags">
-					Intro Session 2k17
+					Buddha International Circuit
 				</div>
 			</li>
 		</ul>
@@ -143,7 +130,7 @@
 				<a href="http://iitpmotorsports.in"><img src="img/supra.png"/></a>
 				<br>
 				IITP Motorsports, is a reputed team to design and manufacture one of the finest formula racing cars from India. Eventually, our car shall only 
-				remain the best designed India car, but unfortunetly not the best manufactured one. 
+				remain the best designed India car, but unfortunately not the best manufactured one. 
 				<br>
 				Team from IIT Patna is taking part in SUPRA SAEINDIA since 2014. The project puts forward the task of designing, manufacturing,
 				raising funds, marketing, logistics, extensive testing and racing, on the shoulders of our dedicated, skilled and determined team members.
@@ -157,13 +144,14 @@
 			<br>
 
 			<div>
+				<a href="http://suprasaeindia.org"><img src="img/sae.png"/></a>
+				<br>
 				SUPRA SAEINDIA is a great event which gives a real platfrom to students to test their engineering skills and refine them by learning from their 
 				little mistakes. Each team designs, manufactures, validates and races a formula 1 prototype. In 2008, Formula SAEINDIA was launched with the name of SUPRA SAEINDIA. This event provides a real world engineering challenge 
 				for the SAEINDIA student members that reflects the steps involved in the entire process from design and engineering to production to marketing and 
 				endurance.
 				<br><br>
 
-				<a href="http://suprasaeindia.org"><img src="img/sae.png"/></a>
 			</div>
 		</div>
 		<br><br>
@@ -194,7 +182,7 @@
 			<h3>IITP Motorsports on facebook</h3>
 			
 			<div id="fb_iframe">
-				<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fteamsupraiitpatna&amp;width=300&amp;height=600&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=true&amp;show_border=false&amp;appId=416206288509930" scrolling="yes" frameborder="0" style="border:none; overflow:hidden; height: 700px;" allowtransparency="true"></iframe>
+				<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fiitpmotorsports&tabs=timeline&width=340&height=700&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" scrolling="yes" frameborder="0" style="border:none; overflow:hidden; height: 700px;" allowtransparency="true"></iframe>
 			</div>
 		</div>
 
@@ -253,19 +241,21 @@
 <!------partners div------>
 	<div class="partners">
 		<h1 class="part_head">Our Sponsors</h1>
+		<a target ="_blank" href="http://www.rubanpatliputrahospital.com/"><img id="title_sponsor" class="top_entry"  src="img/spons/ruban.jpg"/></a>
 		<a target ="_blank" href="http://www.rodicconsultants.com/"><img id="title_sponsor" class="top_entry"  src="img/spons/rodic.png"/></a>
-		<br>
-		<div>Title Sponsor</div>
-		<br>
-
-		<!-- <a target ="_blank" href="http://www.ktm.com/in/"><img class="top_entry" src="img/spons/ktm.jpg"/></a> -->
-		<a target ="_blank" href="http://bseidc.in/"><img class="top_entry" src="img/spons/bseidc.png"/></a>
 		<a target ="_blank" href="https://nationalinsuranceindia.nic.co.in/"><img class="top_entry" src="img/spons/nic.jpg"/></a>
+		<a target ="_blank" href="http://brpnn.bih.nic.in/"><img id="title_sponsor" class="top_entry"  src="img/spons/brpnn.jpg"/></a>
 		<br>
-
-		<a target ="_blank" href="https://www.livehindustan.com/"><img class="top_entry" src="img/spons/hindustan.jpg"/></a>
+		<div>Title Sponsors</div>
 		<br>
-		<div>Media Partner</div>
+		<a target ="_blank" href="http://www.bsedc.bihar.gov.in/"><img class="top_entry" src="img/spons/beltron.png"/></a>
+		<br>
+		<div>Power Sponsor</div>
+		<br>
+		<a target ="_blank" href="https://www.kecrpg.com/"><img class="top_entry" src="img/spons/kec.png"/></a>
+		<br>
+		<div>Associate Sponsor</div>
+		<br>
 
 	</div>
 	<br><br>
@@ -288,7 +278,7 @@
 			Bihta - 801103,
 			Patna, Bihar.
 			<br>
-			Mobile: +91-9413182945
+			Mobile: +91-9661190910
 			<br>
 			Email: iitpmotorsports@gmail.com 
 		</div>
@@ -297,8 +287,8 @@
 			<h2> Follow Us</h2>
 			<hr>
 
-			<p><a href="https://www.facebook.com/teamsupraiitpatna" target="_blank"> <img src="img/facebook.png"> Facebook </a></p>
-			<p><a href="https://www.instagram.com/iitpmotorsports/" target="_blank"> <img src="img/insta.png"> Instagram </a></p>
+			<p><a href="https://www.facebook.com/iitpmotorsports/" target="_blank"> <img src="img/facebook.png"> Facebook </a></p>
+			<p><a href="https://www.instagram.com/iitp_motorsports_/?utm_source=ig_profile_share&igshid=1k1k4mq5lnq4m" target="_blank"> <img src="img/insta.png"> Instagram </a></p>
 			<p><a href="https://www.linkedin.com/in/iitp-motorsports-453b5a161/" target="_blank"> <img src="img/linked.png"> Linkedin </a></p>
 			<p><a href="https://twitter.com/supraiitpatna" target="_blank"> <img src="img/twitter.png"> Twitter </a></p>
 			<p><a href="https://www.youtube.com/channel/UCYzJrjjdxZ68DXrmY1RP0hg" target="_blank"> <img src="img/yt.png"> Youtube </a></p>
@@ -306,11 +296,11 @@
 		<br><br>
 		
 		<div id="final_footer">
-			<span>copyright &copy 2017 IITP Motorsports</span>
+			<span>&copy 2017-19 IITP Motorsports</span>
 			<br>
 			All Rights Reserved
 			<br>
-			<span id="mngo">site developed and managed by: <a target="_blank" href="http://mngo.in/adityasuman">Aditya Suman</a></span>
+			<span id="mngo">site developed by: <a target="_blank" href="http://mngo.in/adityasuman">Aditya Suman</a></span>
 		</div>
 	</div>
 	
